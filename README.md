@@ -49,7 +49,13 @@ class Abtahi:
 # Tools
   <img align="right" alt="Coding" width="120" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWFuc2p4bzd5OXM5cXRkbmJwNnVlNGFyemsydDB3b2dtbWg2dW9vYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif">
 
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a><img src="https://cdn.simpleicons.org/cloudinary/4285F4" height="45" alt="Cloudinary" />
+<img width="12" />
+<img src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760900145/vercel-logo_jxmfiy.png" height="45" alt="Vercel" />
+<img width="12" />
+<img src="https://res.cloudinary.com/dlhx7zvg3/image/upload/v1760900430/render-logo_bgjcgb.png" height="45" alt="Render" />
+<img width="12" />
+<img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="45" alt="Supabase" />
 
 
 <h3 align="left">Languages and Tools:</h3>
