@@ -25,7 +25,7 @@
 
 ## 💫 Who Am I?
 
-<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"  />
+<img align="right" height="200" src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="animated gif" />
 
 ```python
 class Abtahi:
